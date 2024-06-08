@@ -1,6 +1,6 @@
 # 2024_IBP_Project
 
-E commerce website using nextjs and nestjs
+E commerce website using MERN stack
 
 ## YouTube Video
 
